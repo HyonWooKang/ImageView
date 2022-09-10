@@ -13,6 +13,8 @@
 		E42EFA1D28CD0764000F8004 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E42EFA1B28CD0764000F8004 /* Main.storyboard */; };
 		E42EFA1F28CD0766000F8004 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E42EFA1E28CD0766000F8004 /* Assets.xcassets */; };
 		E42EFA2228CD0766000F8004 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E42EFA2028CD0766000F8004 /* LaunchScreen.storyboard */; };
+		E42EFA2B28CD1304000F8004 /* lamp_off.png in Resources */ = {isa = PBXBuildFile; fileRef = E42EFA2928CD1304000F8004 /* lamp_off.png */; };
+		E42EFA2C28CD1304000F8004 /* lamp_on.png in Resources */ = {isa = PBXBuildFile; fileRef = E42EFA2A28CD1304000F8004 /* lamp_on.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		E42EFA1E28CD0766000F8004 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E42EFA2128CD0766000F8004 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E42EFA2328CD0766000F8004 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E42EFA2928CD1304000F8004 /* lamp_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lamp_off.png; sourceTree = "<group>"; };
+		E42EFA2A28CD1304000F8004 /* lamp_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lamp_on.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				E42EFA1728CD0764000F8004 /* SceneDelegate.swift */,
 				E42EFA1928CD0764000F8004 /* ViewController.swift */,
 				E42EFA1B28CD0764000F8004 /* Main.storyboard */,
+				E42EFA2928CD1304000F8004 /* lamp_off.png */,
+				E42EFA2A28CD1304000F8004 /* lamp_on.png */,
 				E42EFA1E28CD0766000F8004 /* Assets.xcassets */,
 				E42EFA2028CD0766000F8004 /* LaunchScreen.storyboard */,
 				E42EFA2328CD0766000F8004 /* Info.plist */,
@@ -127,7 +133,9 @@
 			files = (
 				E42EFA2228CD0766000F8004 /* LaunchScreen.storyboard in Resources */,
 				E42EFA1F28CD0766000F8004 /* Assets.xcassets in Resources */,
+				E42EFA2C28CD1304000F8004 /* lamp_on.png in Resources */,
 				E42EFA1D28CD0764000F8004 /* Main.storyboard in Resources */,
+				E42EFA2B28CD1304000F8004 /* lamp_off.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
